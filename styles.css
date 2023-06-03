@@ -1,0 +1,16 @@
+body {
+    background-color: powderblue;
+  }
+
+h1{
+    text-align: center;
+    color: rgb(99, 107, 104);
+}
+
+.div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    flex-direction: column;
+}
